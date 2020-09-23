@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url(fonts/Roboto-Regular.woff2) format('woff2'), url(fonts/Roboto-Regular.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PTSerif';
+	src: url(fonts/PTSerif-Bold.woff2) format('woff2'), url(fonts/PTSerif-Bold.woff) format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
